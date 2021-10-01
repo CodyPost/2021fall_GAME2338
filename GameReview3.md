@@ -1,0 +1,12 @@
+# Game-2338-Tile-Game-Review
+
+Bit heroes
+
+I give this game a 2 out of 5 stars 
+
+This game is a mobile game that is about you the hero going from dungeon to dungeon looking for loot and killing monsters. This game is primarily single player but there are multiplayer aspects to it such as guilds, pvp, or you can take on dungeons with a party of other players. When you finish the tutorial you will be able to customize the appearance of your character.
+The mechanics of the game. There is power, stamina, and agility, these are the players base stats. these stats are used to calculate the players total stats, such as the health bar and your damage output. Power calculates the players damage output. Each point counts as 1 damage. Stamina calculates the players health. each point adds 10 health points. The last one agility calculates the players speed. So for every time you level up the player generates 0.5 skill points and is a little bit faster. These three mechanics determine a players build, you can be a DPS main, a tank or, bait.  
+The DPS focuses mostly on damage output as fast as possible. The DPS balances power and agility almost evenly, (40-20-40 %). The Tank is in the front within a team that focuses on survivng as many attacks as possible. Usually the Tank has 20% more stamina than the DPS. Tanks favor stamina and use power for their pets, (70-25-5%). Finally the Bait, the bait is basically a tank that has low stamina with a defensive pet and accessory. Within the team the bait has the lowest stamina to lure attacks away from the DPS. The stats of thge bait is (80-15-5%). 
+In this game you can acquire gear that have stats for the Stamina, Agility, and Power, or you can use your stat points which you get from leveling up to upgrade your stats. Stat points are obtained by leveling up, daily login gifts, shop bundles, or crafted with pvp coins. There are different gear tiers that you can obtain. The 7 tiers of gear you can get are common, rare, epic, legendary, set, mythic, and ancient. 
+
+I liked the way the game played and how easy the controls were to learn. The part that I did not like was that when you hit a certain point like clearing a dungeon you cant do it by yourself you will most likely need some other players to help you. Sometimes the game would lag pretty badly if there was to much blood or entitys on the screen. Otherwise thgis game is really fun if you love pvp, or exploring dungeons. 
