@@ -4,79 +4,71 @@
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Soap UI
 
 _What company developed this test tool?_ 
 
-Company Name
+SmartBear Software
 
 _Does this tool do any test case storage/recording?_ 
 
 Answer
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
-
-Answer
-
-_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
-
-Answer
-
-### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* User friendly
+* Easy for functional Testing
+* Security or vulnerability testing 
 
 ## Tool Two
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Katalon studio
 
 _What company developed this test tool?_ 
 
-Company Name
+Katalon, inc.
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+no 
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Groovy, and Java
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* It can be used to automate, wbe applications, mobile applications as well as web services 
+* it is a free tool 
+* it provides in built templates for maintaining the object repository, test cases and custom keywords
 
 ## Tool Three
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Jmeter
 
 _What company developed this test tool?_ 
 
-Company Name
+Apache Software Foundation 
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+yes 
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Groovy
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* it is an open source application
+* it has a user friendly GUI 
+* it supports various testing approachs 
